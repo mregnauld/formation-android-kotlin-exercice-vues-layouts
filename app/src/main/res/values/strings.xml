@@ -1,0 +1,19 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Vues Layouts</string>
+
+	<!-- Main -->
+	<string name="main_article">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu sem in nulla sagittis imperdiet. Maecenas ornare rhoncus sem quis posuere. Nunc blandit dictum maximus. Cras ut ullamcorper purus. Nam sed tellus et elit vulputate pretium sed vel dolor. Sed interdum vel diam eget porta. Proin vitae ornare nulla. Sed quis ex id ipsum tempus porttitor. Etiam ut dolor enim. Vivamus id pulvinar ex, vitae ullamcorper enim. Ut ipsum nibh, elementum non ornare non, pellentesque et ipsum. Pellentesque laoreet purus lacus, vitae semper nulla tempus rhoncus. Cras quis lectus vulputate, vehicula ante ac, semper mauris. Vivamus vitae nisi est.
+		\n\n
+		Suspendisse et rutrum velit, et tincidunt augue. Nulla vitae massa sodales, faucibus nisl vitae, consequat lectus. Ut nulla justo, interdum et eros nec, imperdiet vestibulum lorem. Aenean molestie nulla at metus consequat, et tempor diam finibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam nibh ligula, scelerisque ut purus ac, rhoncus commodo mauris. Pellentesque molestie, nulla sit amet eleifend fringilla, nulla justo suscipit dolor, ac aliquet erat neque placerat dui. Morbi elementum nec elit at lacinia. Nulla eget gravida magna. In congue neque non congue vestibulum. Sed vehicula ultricies massa, ac semper lacus vulputate et.
+		\n\n
+		In quam purus, ultricies quis eros eget, malesuada suscipit sapien. Maecenas ultricies ex. Sed bibendum lacus vel mi pretium sodales. Aliquam laoreet euismod metus ut rhoncus. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus a eros id tempus. Vestibulum id hendrerit nibh. Suspendisse arcu lectus, suscipit at orci vitae, vestibulum laoreet augue. Quisque sit amet gravida purus. Sed consequat elit et nulla ultrices condimentum. Pellentesque neque dui, placerat sed nisl vitae, efficitur auctor neque. Phasellus pellentesque magna at vulputate rutrum. Curabitur efficitur porta dolor, et iaculis ipsum. Aenean tempor ligula in sem viverra tincidunt.
+		\n\n
+	</string>
+	<string name="main_bouton_retour">Retour</string>
+	<string name="main_bienvenue">Bienvenue !</string>
+	<string name="main_retour">Vous êtes revenu au début de l\'article !</string>
+
+</resources>

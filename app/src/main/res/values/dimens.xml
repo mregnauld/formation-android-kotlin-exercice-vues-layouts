@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main -->
+    <dimen name="main_padding_article">16dp</dimen>
+    <dimen name="main_taille_article">18sp</dimen>
+    <dimen name="main_taille_retour">22sp</dimen>
+    <dimen name="main_padding_retour">16dp</dimen>
+
+</resources>
